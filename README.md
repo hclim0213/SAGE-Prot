@@ -15,7 +15,7 @@ Prerequisites
 -------------
 * LINUX/UNIX Cluster Machines (Ubuntu 20.04)
 * Python 3.9
-* conda package: openbabel, bioconda hmmer
+* conda package: openbabel, hmmer
 * pip package: numpy, scipy, scikit-learn, xgboost, nltk, networkx, pyyaml, nbformat, lightgbm, optuna, pandas, PyTDC, mordred, gensim, PubChemPy, torch, matplotlib, seaborn, jupyter, neptune-client, tqdm, rdkit-pypi tensorflow, deepchem, meeko, autograd, tensorflow_addons, tensorflow_probability, holoviews, Flask, Jinja2, bokeh, panel, guacamol, requests, transformers, sentencepiece, catboost, omegaconf, mlxtend, huggingface-hub, portalocker, ftfy, datasets, biotite, biopython, py3Dmol, torchensemble, ema-pytorch, einops, accelerate, x-transformers, aiohttp, attrs, jsonschema, charset_normalizer, swagger-spec-validator, torch-geometric, torch-scatter, torch-sparse, torch-cluster, torch-spline-conv, torchvision, [ESM](https://github.com/facebookresearch/esm), protobuf, tape_proteins, torchtext
 
 Contact Person
