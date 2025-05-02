@@ -1,6 +1,6 @@
 # Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot)
 =======================
-
+![Figure 1](https://github.com/user-attachments/assets/2d0297ac-1382-437f-941c-868f158b0a35)
 
 What is SAGE?
 ----------------
