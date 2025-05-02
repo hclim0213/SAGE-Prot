@@ -2,7 +2,7 @@
 =======================
 ![Figure 1](https://github.com/user-attachments/assets/2d0297ac-1382-437f-941c-868f158b0a35)
 
-What is SAGE?
+What is SAGE-Prot?
 ----------------
 **Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot)** is an effective framework for generating high-scoring proteins with deep neural networks, genetic algorithms, retrieval-augmented generation, and various QSAR/QSPR scoring models for desired objectives.
 
